@@ -1,0 +1,32 @@
+{
+  "1": {
+    "chainName": "mainnet",
+    "SimpleERC6551Account": "",
+    "ERC6551Registry": ""
+  },
+  "137": {
+    "chainName": "polygon",
+    "SimpleERC6551Account": "",
+    "ERC6551Registry": ""
+  },
+  "5": {
+    "chainName": "goerli",
+    "SimpleERC6551Account": "0xd1ca741de2d2975822ADf4646Cf0A8AE3Df51c78",
+    "ERC6551Registry": "0xB8379f1cA92B35d500885b87aF99F64F931cf399"
+  },
+  "314159": {
+    "chainName": "fevm",
+    "SimpleERC6551Account": "0x5405242c013203FF278c02B1e0AA102Fff49C0cd",
+    "ERC6551Registry": "0x485ed00c43e919E02279Ca137343B2aC63EF0eF2"
+  },
+  "11155111": {
+    "chainName": "sepolia",
+    "SimpleERC6551Account": "",
+    "ERC6551Registry": ""
+  },
+  "80001": {
+    "chainName": "mumbai",
+    "SimpleERC6551Account": "0x90193C961A926261B756D1E5bb255e67ff9498A1",
+    "ERC6551Registry": "0xB8379f1cA92B35d500885b87aF99F64F931cf399"
+  }
+}
