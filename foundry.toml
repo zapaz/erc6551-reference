@@ -16,6 +16,7 @@ sepolia = "https://sepolia.infura.io/v3/${INFURA_API_KEY}"
 polygon = "https://polygon-mainnet.infura.io/v3/${INFURA_API_KEY}"
 mumbai = "https://polygon-mumbai.infura.io/v3/${INFURA_API_KEY}"
 fevm = "https://api.calibration.node.glif.io/rpc/v1"
+anvil = "http://127.0.0.1:8545"
 
 [etherscan]
 goerli = { key = "${ETHERSCAN_API_KEY}" }

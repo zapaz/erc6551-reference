@@ -1,0 +1,37 @@
+{
+  "1": {
+    "chainName": "mainnet",
+    "SimpleERC6551Account": "",
+    "ERC6551Registry": ""
+  },
+  "137": {
+    "chainName": "polygon",
+    "SimpleERC6551Account": "",
+    "ERC6551Registry": ""
+  },
+  "5": {
+    "chainName": "goerli",
+    "SimpleERC6551Account": "0xc3C05919D182b568D18ef7658999b99b606D84c5",
+    "ERC6551Registry": "0x6Ed9AEAb016B08255520e922de7af2df033Fb0C2"
+  },
+  "314159": {
+    "chainName": "fevm",
+    "SimpleERC6551Account": "0x3fC659dCc357eD3f53bdA6aB9AB8e856F4ff63A2",
+    "ERC6551Registry": "0xf092ee409CBbe0EA45F042FFFA8E0Dc0F885ad0F"
+  },
+  "11155111": {
+    "chainName": "sepolia",
+    "SimpleERC6551Account": "0x1FF204fEE08081bdbEc6B320bf4Fa2cC16efDea6",
+    "ERC6551Registry": "0xa2833Ea5D62f0eA3f7dd75ff948f03295093b481"
+  },
+  "80001": {
+    "chainName": "mumbai",
+    "SimpleERC6551Account": "0x25F56b5527F5634752Fd2C85564E8d2484cAAEF3",
+    "ERC6551Registry": "0xb5c8CB0846317d82af2DbF90713716B01A2f680a"
+  },
+  "31337": {
+    "chainName": "anvil",
+    "SimpleERC6551Account": "0x90193C961A926261B756D1E5bb255e67ff9498A1",
+    "ERC6551Registry": "0x34A1D3fff3958843C43aD80F30b94c510645C316"
+  }
+}
